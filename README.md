@@ -1,2 +1,2 @@
-# Learning_git
-Just me trying to learn git
+# Notes app
+Find, change and add new notes.
